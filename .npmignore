@@ -1,0 +1,5 @@
+.vscode/
+builds/main.*
+src/main.ts
+.gitignore
+tsconfig.json
